@@ -49,4 +49,6 @@ https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/e2f1ec6065925112
 
 - [x] Sample data that mimics the expected final database structure or schema 
 
+https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/ERD%20Diagram.PNG
+
 - [x] Draft machine learning module is connected to the provisional database:	
