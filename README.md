@@ -51,4 +51,6 @@ https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/e2f1ec6065925112
 
 https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/ERD%20Diagram.PNG
 
+https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/Database%20ERD%20coding.txt
+
 - [x] Draft machine learning module is connected to the provisional database:	
