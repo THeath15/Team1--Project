@@ -24,3 +24,19 @@ CREATE TABLE War_Dataset (
 	region INT NOT NULL,
 	PRIMARY KEY (Start_Date)
 );
+
+CREATE TABLE Cleaned_Conflict_1 (
+	location VARCHAR NOT NULL,
+	side_a VARCHAR NOT NULL,
+	side_a_2nd VARCHAR,
+	side_b VARCHAR NOT NULL,
+	side_b_2nd VARCHAR,
+	incompatibility INT NOT NULL,
+	territory_name VARCHAR,
+	cumulative_intensity INT NOT NULL,
+	type_of_conflict INT NOT NULL,
+	start_date DATE NOT NULL,
+	ep_end INT NOT NULL,
+	ep_end_date DATE,
+	region VARCHAR NOT NULL
+)
