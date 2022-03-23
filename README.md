@@ -1,7 +1,7 @@
-# Group1-Project---Sketch-it-out
-**Group 1 – KU Data Analytics Online Bootcamp
-Members: John Johnson,  Michele Sampson, Stephen Long , Theresa Heath
-Project Name: First Segment: Sketch it out**
+# **Group 1 – KU Data Analytics Online Bootcamp
+Project Name: Second Segment
+![Project title cover](https://user-images.githubusercontent.com/92903447/159403781-fef4d8aa-b2ea-4974-b3bf-386c7097167c.png)
+
 
 **Project Meeting Calendar: **Team members can sign in/out anytime on below Zoom meeting time schedules. 
 Monday to Friday : 7pm to 10pm 
