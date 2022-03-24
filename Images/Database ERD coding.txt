@@ -1,0 +1,42 @@
+--This is to create the tables to hold market data and war-conflict data
+CREATE TABLE S&P500 (
+	Date DATE NOT NULL,
+	Value VARCHAR NOT NULL,
+	PRIMARY KEY (Date)
+);
+CREATE TABLE Nasdaq (
+	Date DATE NOT NULL,
+	Value VARCHAR NOT NULL,
+	PRIMARY KEY (Date)
+);
+CREATE TABLE Dow_Jones (
+	Date DATE NOT NULL,
+	Value VARCHAR NOT NULL,
+	PRIMARY KEY (Date)
+);
+CREATE TABLE War_Dataset (
+	location VARCHAR NOT NULL,
+	start_date DATE NOT NULL,
+	end_date DATE NOT NULL,
+	year INT NOT NULL,
+	type_of_conflict INT NOT NULL,
+	intensity INT NOT NULL,
+	region INT NOT NULL,
+	PRIMARY KEY (Start_Date)
+);
+
+CREATE TABLE Cleaned_Conflict_1 (
+	location VARCHAR NOT NULL,
+	side_a VARCHAR NOT NULL,
+	side_a_2nd VARCHAR,
+	side_b VARCHAR NOT NULL,
+	side_b_2nd VARCHAR,
+	incompatibility INT NOT NULL,
+	territory_name VARCHAR,
+	cumulative_intensity INT NOT NULL,
+	type_of_conflict INT NOT NULL,
+	start_date DATE NOT NULL,
+	ep_end INT NOT NULL,
+	ep_end_date DATE,
+	region VARCHAR NOT NULL
+)
