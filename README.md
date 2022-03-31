@@ -31,12 +31,12 @@ d.	Was a certain sector impacted more than another?
 e.	Which territory or location was greatly affected by and what was minimum,  maximum and average market value during the conflict?
 
 										 
-☒ Description of data exploration  and  analysis phase of the project
+# Description of data exploration  and  analysis phase of the project
 Data search  using Google and  Kaggle website (see above resources used for this project). Dataset Stock Market Dataset and the datawar set from url above were downloaded and saved as:
-Dowjones.csv
-Nasdaq. csv
-SP500.csv  
-War_dataset.csv
+	 - Dowjones.csv
+	 - Nasdaq. csv
+	 - SP500.csv  
+- 	 - War_dataset.csv
 
 Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500.
 
@@ -48,18 +48,19 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 	- Python
 	- Machine learning
 	- QuickDBD
-	- GoogleSlide
+	- GoogleSlide /Powerpoint 
 	- Tableau
+	- QuickDBD 
 
 # Machine Learning Model: 
 
-	## Description of preliminary data preprocessing:
+	- Description of preliminary data preprocessing:
 	
-	## Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
+	-  Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
 	
-	## Description of how data was split into training and testing sets:
+	-  Description of how data was split into training and testing sets:
 	
-	## Explanation of model choice, including limitations and benefits:
+	-  Explanation of model choice, including limitations and benefits:
 
 # Result of Analysis : In progress
 
