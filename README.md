@@ -21,9 +21,13 @@ With the current situation of Russia’s military invading Ukraine, our team has
 
 # Questions we hope to answer with the data (reflecting on dataset)
 a.	What was the market behavior prior to the conflict? 
+
 b.	What was it during the conflict?  
+
 c.	Did the size of the conflict have a proportional impact on the market price?
+
 d.	Was a certain sector impacted more than another?
+
 e.	Which territory or location was greatly affected by and what was minimum,  maximum and average market value during the conflict?
 
 										 
@@ -40,19 +44,22 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 # Image Files and Dashboard : 
 
 # Technologies, languages, tools, and algorithms used throught the project 
-Excel
-Python
-Machine learning
-QuickDBD
-GoogleSlide
-Tableau
+	- Excel
+	- Python
+	- Machine learning
+	- QuickDBD
+	- GoogleSlide
+	- Tableau
 
 # Machine Learning Model: 
 
-	Description of preliminary data preprocessing:
-	Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
-	Description of how data was split into training and testing sets:
-	Explanation of model choice, including limitations and benefits:
+	## Description of preliminary data preprocessing:
+	
+	## Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
+	
+	## Description of how data was split into training and testing sets:
+	
+	## Explanation of model choice, including limitations and benefits:
 
 # Result of Analysis : In progress
 
