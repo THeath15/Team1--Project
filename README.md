@@ -1,5 +1,3 @@
-Additional keypoints  /draft to add for  our Readme. md file
-
 Group 1 – KU Data Analytics Online Bootcamp
 Members: John Johnson,  Michele Sampson, Stephen Long, Theresa Heath
 Project Name: Group 1 – Second Segment Deliverable 
@@ -10,19 +8,27 @@ Monday to Friday : 7pm to 10pm
 Saturday to Sunday: 1pm to 4pm
 
 ☒  Selected Topic:  Market volatility during international conflict 
+
 ☒  Reason topic was selected:
 Draft: With the current situation of Russia’s military invading Ukraine, our team has agreed and  agreed to tackle an exploratory analysis  on investor takes to war and uncertainty during international conflicts.
-	☒  Description of source of Data / Other Resources and Links:
+	
+☒  Description of source of Data / Other Resources and Links:
 	The Mapping can be found here:  https://ucdp.uu.se/downloads/index.html#armedconflict-dataset-version-21.1.csv
 	Stock Market Dataset:  https://www.kaggle.com/rishidamarla/stock-prices-over-a-30-year-period 
 Our initial exploratory dataset has ___ datapoints saved in excel file format with filename: war_dataset.xls
 
 ☒ Questions we hope to answer with the data (reflecting on dataset)
+
 a.	What was the market behavior prior to the conflict? 
+
 b.	What was it during the conflict?  
+
 c.	Did the size of the conflict have a proportional impact on the market price?
+
 d.	Was a certain sector impacted more than another?
+
 e.	Which territory or location was greatly affected by and what was minimum,  maximum and average market value during the conflict?
+
 f.	Does the market bounce back after 90 days from the start of the conflict?
 										 
 ☒ Description of data exploration  and  analysis phase of the project
