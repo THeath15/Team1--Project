@@ -14,7 +14,8 @@ Saturday to Sunday: 1pm to 4pm
 With the current situation of Russia’s military invading Ukraine, our team has agreed and  agreed to tackle an exploratory analysis  on investor takes to war and uncertainty during international conflicts.
 
 # Description of source of Data / Other Resources and Links:
-	The Mapping can be found here:  https://ucdp.uu.se/downloads/ucdpprio/ucdp-prio-acd-211.pdf
+	The Mapping can be found here:  https://ucdp.uu.se/downloads/index.html#armedconflict-dataset-version-21.1.csv &
+	https://ucdp.uu.se/downloads/ucdpprio/ucdp-prio-acd-211.pdf
 	Stock Market Dataset:  https://www.kaggle.com/rishidamarla/stock-prices-over-a-30-year-period 
 	
 	Our initial exploratory dataset has ___ datapoints saved in excel file format with filename: war_dataset.xls
