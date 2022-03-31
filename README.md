@@ -1,48 +1,38 @@
-# Group1-Project---Sketch-it-out
-**Group 1 – KU Data Analytics Online Bootcamp
-Members: John Johnson,  Michele Sampson, Stephen Long , Theresa Heath
-Project Name: First Segment: Sketch it out**
+Group 1 – KU Data Analytics Online Bootcamp Members: John Johnson, Michele Sampson, Stephen Long, Theresa Heath Project Name: Group 1 – Second Segment Deliverable
 
-**Project Meeting Calendar: **Team members can sign in/out anytime on below Zoom meeting time schedules. 
-Monday to Friday : 7pm to 10pm 
-Saturday to Sunday: 1pm to 4pm
+Communication Protocols: Project Meeting Calendar: Team members can sign in/out anytime on below Zoom meeting time schedules. Monday to Friday : 7pm to 10pm Saturday to Sunday: 1pm to 4pm
 
-**Project activity check-list:**
+☒ Selected Topic: Market volatility during international conflict
 
-- [x] Create Repository for the project and invite the other team members to join
+☒ Reason topic was selected: Draft: With the current situation of Russia’s military invading Ukraine, our team has agreed and agreed to tackle an exploratory analysis on investor takes to war and uncertainty during international conflicts.
 
-- [x] Source a data set that will suit your needs (use multiple sets if applicable)
+☒ Description of source of Data / Other Resources and Links: The Mapping can be found here: https://ucdp.uu.se/downloads/index.html#armedconflict-dataset-version-21.1.csv Stock Market Dataset: https://www.kaggle.com/rishidamarla/stock-prices-over-a-30-year-period Our initial exploratory dataset has ___ datapoints saved in excel file format with filename: war_dataset.xls
 
-- [ ] Begin to clean, analyze and perform exploratory data analysis 
+☒ Questions we hope to answer with the data (reflecting on dataset)
 
-- [ ] Include mockups of machine learning model and database.
+a. What was the market behavior prior to the conflict?
 
-**Project Rubrics:**
-**Presentation: (30)** pts Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well. 30 pts
+b. What was it during the conflict?
 
-- [x] Selected Topic: Market volatility during international conflict
+c. Did the size of the conflict have a proportional impact on the market price?
 
-- [ ] Questions we hope to answer with the data (reflecting on dataset)
-	What was the market behavior prior to the conflict? 
-	What was it during the conflict?  
-	Did the size of the conflict have a proportional impact on the market price?
-	Was a certain sector impacted more than another?
-             More questions to add and or finalize by the team…
+d. Was a certain sector impacted more than another?
 
-**Github :  (10 pts)**
+e. Which territory or location was greatly affected by and what was minimum, maximum and average market value during the conflict?
 
-- [ ] Main Branch: Includes a README.md, description of the communication protocols
+f. Does the market bounce back after 90 days from the start of the conflict?
 
-- [ ] Individual Branches: At least 1 branch for each team member. Each team member has at least 4 commits from the duration of the first segment
+☒ Description of data exploration and analysis phase of the project Data search using UCDP Dataset Download Center (Department of Peace and Conflict Research) and Kaggle website (see above resources used for this project). Dataset Stock Market Dataset and the war dataset from url above were downloaded and saved as: Dowjones.csv Nasdaq. csv SP500.csv
+War_dataset.csv
 
-**Machine Learning Model: (35 pts)** Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following: 
+Data was downloaded and cleaned. The cleaning and merging process has been very challenging. The dates of the conflicts versus the dates of the market data do not align easily as it is weekly not daily. Narrowing the conflict data has been a timely process with many listed without dates along with conflict details. Challenges have been in date formatting between files and aligning them together. Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500.
 
-- [ ] Takes in data in from the provisional database
+☒ Image Files and Dashboard :
 
-- [ ] Outputs label(s) for input data: 
+☒ Technologies, languages, tools, and algorithms used throught the project Excel Python Machine learning QuickDBD Power Point AWS Tableau
 
-**Database: (25 pts)**  Team members present a provisional database that stands in for the final database and accomplishes the following:
+☐ Result of Analysis : In progress
 
-- [ ] Sample data that mimics the expected final database structure or schema 
+☐ Recommendation for future analysis In progress
 
-- [ ] Draft machine learning module is connected to the provisional database:	
+☐ Anything the team would have done differently. In progress
