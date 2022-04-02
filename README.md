@@ -1,4 +1,4 @@
-# **Group 1 – KU Data Analytics Online Bootcamp
+# Group 1 – KU Data Analytics Online Bootcamp
 Project Name: Second Segment
 ![Project title cover](https://user-images.githubusercontent.com/92903447/159403781-fef4d8aa-b2ea-4974-b3bf-386c7097167c.png)
 
