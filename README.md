@@ -27,7 +27,7 @@ War_dataset.csv
 
 Data was downloaded and cleaned. The cleaning and merging process has been very challenging. The dates of the conflicts versus the dates of the market data do not align easily as it is weekly not daily. Narrowing the conflict data has been a timely process with many listed without dates along with conflict details. Challenges have been in date formatting between files and aligning them together. Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500.
 
-☒ Image Files and Dashboard :
+☒ Image Files and Dashboard : https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
 
 ☒ Technologies, languages, tools, and algorithms used throught the project Excel Python Machine learning QuickDBD Power Point AWS Tableau
 
