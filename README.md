@@ -1,3 +1,4 @@
+
 # Group 1 – KU Data Analytics Online Bootcamp
 Project Name: Second Segment
 Member: John Johnson, Michele Samspon, Stephen Long, Theresa Heath 
