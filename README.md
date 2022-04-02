@@ -53,7 +53,7 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 	- Tableau
 	- QuickDBD 
 
-**Machine Learning Model:
+** Machine Learning Model:
 
 	- Description of preliminary data preprocessing:
 	
@@ -67,11 +67,15 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 	##  Outputs label(s) for input data
 	https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/e2f1ec6065925112a6ae1c13e7a7f1781fbfcf7e/Images/ml_flowchart.png
 
-**Database: ( Sample data that mimics the expected final database structure or schema 
+** Database: ( Sample data that mimics the expected final database structure or schema 
 
 https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/ERD%20Diagram.PNG
 
 https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/Database%20ERD%20coding.txt
+
+# Result of Analysis : In progress
+
+# Recommendation for future analysis  In progress
 
 # Anything the team would have done differently. In progress
 
