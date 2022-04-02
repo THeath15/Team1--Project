@@ -63,7 +63,7 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 	
 	-  Explanation of model choice, including limitations and benefits:
 
-# Result of Analysis : In progress
+# Result of Analysis : https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
 
 # Recommendation for future analysis  In progress
 
