@@ -1,10 +1,9 @@
 # Group 1 – KU Data Analytics Online Bootcamp
 Project Name: Second Segment
-![Project title cover](https://user-images.githubusercontent.com/92903447/159403781-fef4d8aa-b2ea-4974-b3bf-386c7097167c.png)
-
+Member: John Johnson, Michele Samspon, Stephen Long, Theresa Heath 
 
 # Communication Protocols:
-Project Meeting Calendar: Team members can sign in/out anytime on below Zoom meeting time schedules. 
+Project MMeeting Calendar: Team members can sign in/out anytime on below Zoom meeting time schedules. 
 Monday to Friday : 7pm to 10pm 
 Saturday to Sunday: 1pm to 4pm
 
@@ -40,11 +39,11 @@ Data search  using Google and  Kaggle website (see above resources used for this
 	 - SP500.csv  
  	 - War_dataset.csv
 
-Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500.
+Using Jupyter Notebooks the dataset were uploaded to Amazon Web Services. We use Python for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500. 
 
-# Image Files and Dashboard : 
+# Image Files and Dashboard : https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
 
-# Technologies, languages, tools, and algorithms used throught the project :
+# Technologies, languages, tools, and algorithms used throughout the project :
 	- Excel
 	- Python
 	- Machine learning
@@ -52,6 +51,7 @@ Using Jupyter Notebook/Python, scripts for cleaning up war dataset file was init
 	- GoogleSlide /Powerpoint 
 	- Tableau
 	- QuickDBD 
+	- AWS 
 
 # Machine Learning Model:
 
