@@ -1,7 +1,9 @@
 Endpoint & port
 
+
 Endpoint
 database-1.cp0sytup8326.us-east-1.rds.amazonaws.com
+
 
 Port
 5432
