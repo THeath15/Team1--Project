@@ -1,4 +1,3 @@
-
 # Group 1 – KU Data Analytics Online Bootcamp
 Project Name: Second Segment
 Member: John Johnson, Michele Samspon, Stephen Long, Theresa Heath 
@@ -81,4 +80,3 @@ https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/main/Images/Data
 # Recommendation for future analysis  In progress
 
 # Anything the team would have done differently. In progress
-
