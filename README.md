@@ -55,13 +55,30 @@ Using Jupyter Notebooks the dataset were uploaded to Amazon Web Services. We use
 
 # Machine Learning Model:
 
-	- Description of preliminary data preprocessing:
+- Description of preliminary data preprocessing:
+	- The conflict data is preprocessed and uploaded to the AWS database via the Jupyter notebook: ***conflict_cleaning.ipynb***.
+	The different stock data sets are preprocessed and uploaded to the AWS database via the Jupyter notebook: ***stock_cleaning.ipynb***.
 	
-	-  Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
+-  Description of preliminary feature engineering and preliminary feature selection, including the decision-making process:
+	- The feature engineering and preliminary feature selection was performed in the ***ml_dev.ipynb*** Jupyter notebook.
+	The first restriction in the data was selecting only the conflict data where we had stock data available.
+	- Next, a function called ```find_nearest_date()``` was created to find the nearest stock date given the conflict date, this would be used to merge the stock data to the conflict data in a new dataframe.
+	A binning function, ```create_bins()``` was created to allow the easy generalization of binning as there are potentially hundreds of different countries/governments, so this would help to prevent the blowing up of the number of features, given the relatively small number of conflicts.
+	- Binning was performed on all the object dtype columns using the aforementioned ```create_bins()``` function.
+	The actual encoding was performed using ```Pandas.get_dummies()``` method.
+	- A simple Pandas merge is then used to combine the conflict and stock data, where stock data that is missing any values are dropped, and then NaNs are filled with 0s.
 	
-	-  Description of how data was split into training and testing sets:
+-  Description of how data was split into training and testing sets:
+	- The data was split with 80% going to training and the other 20% going to test set.
+	- The random_state seed was set to 42 to produce reliable results for sharing amongst the group.
+	- Stratification of the split wasn't necessary because this was a regression problem, rather than a classification problem.
 	
-	-  Explanation of model choice, including limitations and benefits:
+-  Explanation of model choice, including limitations and benefits:
+	- The Extra Random Trees Regressor Ensemble model was selected for machine learning.
+	- The primary limitations for this type of model can be extended training time if there is a significant amount of data, and the decision tree model itself could change drastically with the introduction of new data, rather than adjusting the weights on a previously trained model if this had been a deep learning algorithm.
+	- However, for this particular data set there are not too many data points, hence the training time is relatively fast.
+	Conflicts around the world don't arise too frequently as measured by the Uppsala Conflict Data Program (UCDP), as they are defined to occur with 25 or more battle-related deaths in a calendar year.
+	- The major benefits of this model include: being able to see the feature_importances after the training to see which of the features are most relevant in making stock predictions, being able to easily parallelize the training of the model as this is an ensemble method, and being able to easily explain/understand the model after the training.
 
 
 	## Outputs label(s) for input data
