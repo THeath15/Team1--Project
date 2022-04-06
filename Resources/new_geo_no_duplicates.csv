@@ -1,0 +1,727 @@
+,location,side_a,start_date,start_date2,region,region name,type_of_conflict,type_of_conflict_name,S&P_500,NASDAQ,Dow_Jones,Year,Month
+0,Gambia,Government of Gambia,7/30/1981,7/30/1981,4,Africa,4,Internationalized Intrastate ,130.92,211.63,952.34,1981,7
+1,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+2,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+3,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+4,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+5,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+6,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+7,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+8,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+9,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+10,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+11,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+12,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+13,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+14,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+15,Somalia,Government of Somalia,1/18/1982,10/24/2006,4,Africa,4,Internationalized Intrastate ,1377.34,2350.62,12090.26,1982,1
+16,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,4,Internationalized Intrastate ,379.1,536.3,2886.4,1985,8
+17,Burkina Faso,Government of Burkina Faso,10/15/1987,5/22/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1987,10
+18,Burkina Faso,Government of Burkina Faso,10/15/1987,5/22/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1987,10
+19,Burkina Faso,Government of Burkina Faso,10/15/1987,5/22/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1987,10
+20,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,4,Internationalized Intrastate ,1552.5,2707.0,13907.25,1990,2
+21,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,4,Internationalized Intrastate ,1552.5,2707.0,13907.25,1990,2
+22,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,4,Internationalized Intrastate ,1552.5,2707.0,13907.25,1990,2
+23,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,4,Internationalized Intrastate ,1552.5,2707.0,13907.25,1990,2
+24,Mali,Government of Mali,6/28/1990,5/17/2014,4,Africa,4,Internationalized Intrastate ,1877.86,4090.59,16491.31,1990,6
+25,Rwanda,Government of Rwanda,10/1/1990,10/3/1990,4,Africa,4,Internationalized Intrastate ,311.5,347.4,2510.64,1990,10
+26,Rwanda,Government of Rwanda,10/1/1990,2/16/2009,4,Africa,4,Internationalized Intrastate ,826.84,1534.36,7850.41,1990,10
+27,Rwanda,Government of Rwanda,10/1/1990,2/16/2009,4,Africa,4,Internationalized Intrastate ,826.84,1534.36,7850.41,1990,10
+28,Rwanda,Government of Rwanda,10/1/1990,2/16/2009,4,Africa,4,Internationalized Intrastate ,826.84,1534.36,7850.41,1990,10
+29,Rwanda,Government of Rwanda,10/1/1990,2/16/2009,4,Africa,4,Internationalized Intrastate ,826.84,1534.36,7850.41,1990,10
+30,Rwanda,Government of Rwanda,10/1/1990,3/29/2016,4,Africa,4,Internationalized Intrastate ,2072.78,4914.54,17792.75,1990,10
+31,Rwanda,Government of Rwanda,10/1/1990,12/15/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1990,10
+32,Rwanda,Government of Rwanda,10/1/1990,12/15/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1990,10
+33,Rwanda,Government of Rwanda,10/1/1990,12/15/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1990,10
+34,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+35,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+36,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+37,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+38,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+39,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+40,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+41,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+42,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+43,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,4,Internationalized Intrastate ,375.36,495.79,2896.78,1991,3
+44,Azerbaijan,Government of Azerbaijan,12/29/1991,12/30/1991,1,Europe,4,Internationalized Intrastate ,406.46,565.71,3101.52,1991,12
+45,Azerbaijan,Government of Azerbaijan,12/29/1991,12/30/1991,1,Europe,4,Internationalized Intrastate ,406.46,565.71,3101.52,1991,12
+46,Azerbaijan,Government of Azerbaijan,12/29/1991,12/30/1991,1,Europe,4,Internationalized Intrastate ,406.46,565.71,3101.52,1991,12
+47,Azerbaijan,Government of Azerbaijan,12/29/1991,4/20/1997,1,Europe,4,Internationalized Intrastate ,766.34,1222.57,6703.55,1991,12
+48,Azerbaijan,Government of Azerbaijan,12/29/1991,4/20/1997,1,Europe,4,Internationalized Intrastate ,766.34,1222.57,6703.55,1991,12
+49,Azerbaijan,Government of Azerbaijan,12/29/1991,12/5/2005,1,Europe,4,Internationalized Intrastate ,1265.08,2273.37,10877.51,1991,12
+50,Azerbaijan,Government of Azerbaijan,12/29/1991,12/31/2008,1,Europe,4,Internationalized Intrastate ,931.8,1632.21,9034.69,1991,12
+51,Azerbaijan,Government of Azerbaijan,12/29/1991,9/25/2012,1,Europe,4,Internationalized Intrastate ,1440.67,3116.23,13437.13,1991,12
+52,Azerbaijan,Government of Azerbaijan,12/29/1991,8/1/2014,1,Europe,4,Internationalized Intrastate ,1925.15,4352.64,16493.37,1991,12
+53,Azerbaijan,Government of Azerbaijan,12/29/1991,8/1/2014,1,Europe,4,Internationalized Intrastate ,1925.15,4352.64,16493.37,1991,12
+54,Azerbaijan,Government of Azerbaijan,12/29/1991,8/1/2014,1,Europe,4,Internationalized Intrastate ,1925.15,4352.64,16493.37,1991,12
+55,Azerbaijan,Government of Azerbaijan,12/29/1991,8/1/2014,1,Europe,4,Internationalized Intrastate ,1925.15,4352.64,16493.37,1991,12
+56,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+57,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+58,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+59,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+60,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+61,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+62,Azerbaijan,Government of Azerbaijan,12/29/1991,9/27/2020,1,Europe,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1991,12
+63,Croatia,Government of Croatia,4/23/1992,4/30/1992,1,Europe,4,Internationalized Intrastate ,412.53,578.14,3336.09,1992,4
+64,Croatia,Government of Croatia,4/23/1992,4/30/1992,1,Europe,4,Internationalized Intrastate ,412.53,578.14,3336.09,1992,4
+65,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,4/27/1992,4/27/1992,1,Europe,4,Internationalized Intrastate ,409.02,572.89,3324.46,1992,4
+66,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,4/27/1992,4/27/1992,1,Europe,4,Internationalized Intrastate ,409.02,572.89,3324.46,1992,4
+67,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,4,Internationalized Intrastate ,416.05,585.76,3369.41,1992,5
+68,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,4,Internationalized Intrastate ,416.05,585.76,3369.41,1992,5
+69,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,4,Internationalized Intrastate ,416.05,585.76,3369.41,1992,5
+70,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,4,Internationalized Intrastate ,416.05,585.76,3369.41,1992,5
+71,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,4,Internationalized Intrastate ,416.05,585.76,3369.41,1992,5
+72,Georgia,Government of Georgia,5/12/1992,8/12/2008,1,Europe,4,Internationalized Intrastate ,1298.19,2452.52,11659.9,1992,5
+73,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,5/27/1992,1/14/1993,1,Europe,4,Internationalized Intrastate ,437.15,697.15,3271.12,1992,5
+74,Congo,Government of Congo,11/3/1993,6/6/1997,4,Africa,4,Internationalized Intrastate ,858.01,1404.84,7435.78,1993,11
+75,Congo,Government of Congo,11/3/1993,6/6/1997,4,Africa,4,Internationalized Intrastate ,858.01,1404.84,7435.78,1993,11
+76,Congo,Government of Congo,11/3/1993,6/6/1997,4,Africa,4,Internationalized Intrastate ,858.01,1404.84,7435.78,1993,11
+77,Congo,Government of Congo,11/3/1993,4/10/2002,4,Africa,4,Internationalized Intrastate ,1111.01,1756.19,10190.82,1993,11
+78,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),4/22/1996,3/6/1998,1,Europe,4,Internationalized Intrastate ,1055.69,1753.49,8569.39,1996,4
+79,Guinea-Bissau,Government of Guinea-Bissau,6/7/1998,6/7/1998,4,Africa,4,Internationalized Intrastate ,1113.86,1782.92,9037.71,1998,6
+80,Guinea-Bissau,Government of Guinea-Bissau,6/7/1998,6/7/1998,4,Africa,4,Internationalized Intrastate ,1113.86,1782.92,9037.71,1998,6
+81,DR Congo (Zaire),Government of DR Congo (Zaire),7/2/1998,8/7/2017,4,Africa,4,Internationalized Intrastate ,2476.83,6351.56,22092.81,1998,7
+82,DR Congo (Zaire),Government of DR Congo (Zaire),7/2/1998,4/22/2020,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,1998,7
+83,Lesotho,Government of Lesotho,9/3/1998,9/22/1998,4,Africa,4,Internationalized Intrastate ,1044.75,1743.59,8028.77,1998,9
+84,Uzbekistan,Government of Uzbekistan,2/16/1999,3/30/1999,3,Asia,4,Internationalized Intrastate ,1293.72,2493.37,9832.51,1999,2
+85,Central African Republic,Government of Central African Republic,5/27/2001,6/1/2001,4,Africa,4,Internationalized Intrastate ,1260.67,2149.44,10990.41,2001,5
+86,Central African Republic,Government of Central African Republic,5/27/2001,11/28/2006,4,Africa,4,Internationalized Intrastate ,1396.71,2413.21,12194.13,2001,5
+87,Central African Republic,Government of Central African Republic,5/27/2001,11/26/2009,4,Africa,4,Internationalized Intrastate ,1091.49,2138.44,10309.92,2001,5
+88,Central African Republic,Government of Central African Republic,5/27/2001,11/26/2009,4,Africa,4,Internationalized Intrastate ,1091.49,2138.44,10309.92,2001,5
+89,Central African Republic,Government of Central African Republic,5/27/2001,5/17/2018,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,2001,5
+90,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+91,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+92,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+93,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+94,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+95,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+96,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+97,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+98,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+99,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+100,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+101,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+102,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+103,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+104,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+105,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+106,United States of America,Government of United States of America,9/11/2001,9/11/2001,5,Americas,4,Internationalized Intrastate ,1092.54,1695.37,,2001,9
+107,United States of America,Government of United States of America,9/11/2001,7/31/2019,5,Americas,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,2001,9
+108,Mauritania,Government of Mauritania,9/15/2008,9/18/2010,4,Africa,4,Internationalized Intrastate ,1125.59,2315.61,10607.85,2008,9
+109,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+110,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+111,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+112,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+113,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+114,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+115,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+116,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,4,Internationalized Intrastate ,1316.33,2816.55,12660.46,2009,6
+117,Libya,Government of Libya,2/28/2011,3/4/2011,4,Africa,4,Internationalized Intrastate ,1321.15,2784.67,12169.88,2011,2
+118,Libya,Government of Libya,2/28/2011,2/21/2019,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,2011,2
+119,Libya,Government of Libya,2/28/2011,2/21/2019,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,2011,2
+120,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,4,Internationalized Intrastate ,1123.53,2341.84,10817.65,2011,8
+121,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,4,Internationalized Intrastate ,1123.53,2341.84,10817.65,2011,8
+122,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+123,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+124,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+125,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+126,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+127,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,4,Internationalized Intrastate ,1691.65,3613.16,15558.83,2013,3
+128,Ukraine,Government of Ukraine,4/12/2014,5/2/2014,1,Europe,4,Internationalized Intrastate ,1881.14,4123.9,16512.89,2014,4
+129,Ukraine,Government of Ukraine,5/4/2014,6/14/2014,1,Europe,4,Internationalized Intrastate ,1936.16,4310.65,16775.74,2014,5
+130,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+131,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+132,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+133,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+134,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+135,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+136,Ukraine,Government of Ukraine,9/17/2014,9/25/2014,1,Europe,4,Internationalized Intrastate ,1982.85,4512.19,17113.15,2014,9
+137,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+138,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+139,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+140,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+141,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+142,Afghanistan,Government of Afghanistan,2/9/2015,3/3/2015,3,Asia,4,Internationalized Intrastate ,2071.26,4927.37,17856.78,2015,2
+143,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,4,Internationalized Intrastate ,2076.62,4997.7,17760.41,2015,3
+144,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,4,Internationalized Intrastate ,2076.62,4997.7,17760.41,2015,3
+145,Libya,Government of Libya,3/14/2015,3/18/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+146,Libya,Government of Libya,3/14/2015,3/18/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+147,Libya,Government of Libya,3/14/2015,3/18/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+148,Libya,Government of Libya,3/14/2015,3/18/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+149,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+150,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+151,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+152,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+153,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+154,Nigeria,Government of Nigeria,3/15/2015,3/22/2015,4,Africa,4,Internationalized Intrastate ,2108.1,5026.42,18127.65,2015,3
+155,Cameroon,Government of Cameroon,3/19/2015,8/11/2015,4,Africa,4,Internationalized Intrastate ,2091.54,5048.24,17477.4,2015,3
+156,Cameroon,Government of Cameroon,3/19/2015,4/27/2019,4,Africa,4,Internationalized Intrastate ,2446.3,6301.8857,21865.37,2015,3
+157,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+158,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+159,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+160,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+161,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+162,Niger,Government of Niger,3/26/2015,3/30/2015,4,Africa,4,Internationalized Intrastate ,2066.96,4886.94,17763.24,2015,3
+163,Mali,Government of Mali,2/4/2017,7/9/2017,4,Africa,4,Internationalized Intrastate ,2425.18,6153.08,21414.34,2017,2
+164,Mali,Government of Mali,2/4/2017,7/9/2017,4,Africa,4,Internationalized Intrastate ,2425.18,6153.08,21414.34,2017,2
+165,Mali,Government of Mali,2/4/2017,7/9/2017,4,Africa,4,Internationalized Intrastate ,2425.18,6153.08,21414.34,2017,2
+166,Mali,Government of Mali,2/4/2017,7/9/2017,4,Africa,4,Internationalized Intrastate ,2425.18,6153.08,21414.34,2017,2
+167,Ethiopia,Government of Ethiopia,12/31/1977,12/31/1977,4,Africa,4,Internationalized Intrastate ,95.1,105.05,831.17,1977,12
+168,"Tanzania, Uganda",Government of Tanzania,11/11/1978,11/15/1978,4,Africa,2,Interstate ,94.42,113.69,797.73,1978,11
+169,"Afghanistan, Russia (Soviet Union)",Government of Afghanistan,12/27/1979,12/27/1979,"1, 3",Asia,2,Interstate ,107.84,150.83,838.91,1979,12
+170,"Argentina, United Kingdom",Government of Argentina,4/2/1982,5/2/1982,"1, 5",Americas,2,Interstate ,116.44,184.7,848.36,1982,4
+171,"Laos, Thailand",Government of Laos,6/16/1982,12/31/1986,3,Asia,2,Interstate ,246.45,353.2,1927.31,1982,6
+172,"Laos, Thailand",Government of Laos,6/16/1982,12/31/1986,3,Asia,2,Interstate ,246.45,353.2,1927.31,1982,6
+173,"Laos, Thailand",Government of Laos,6/16/1982,12/31/1986,3,Asia,2,Interstate ,246.45,353.2,1927.31,1982,6
+174,"Chad, Nigeria",Government of Chad,4/18/1983,4/24/1983,4,Africa,2,Interstate ,160.42,288.55,1196.3,1983,4
+175,"Grenada, United States of America",Government of Grenada,10/25/1983,10/25/1983,5,Americas,2,Interstate ,163.37,276.14,1223.48,1983,10
+176,"Burkina Faso, Mali",Government of Burkina Faso,12/25/1985,12/26/1985,4,Africa,2,Interstate ,209.61,322.8,1543.0,1985,12
+177,"Chad, Libya",Government of Chad,8/8/1987,8/8/1987,4,Africa,2,Interstate ,323.0,443.6,2592.0,1987,8
+178,"Panama, United States of America",Government of Panama,12/16/1989,12/23/1989,5,Americas,2,Interstate ,347.42,444.6,2711.39,1989,12
+179,"Iraq, Kuwait",Government of Iraq,8/2/1990,8/2/1990,2,Middle East,2,Interstate ,344.86,417.5,2809.65,1990,8
+180,"Iraq, Kuwait",Government of Iraq,8/2/1990,8/2/1990,2,Middle East,2,Interstate ,344.86,417.5,2809.65,1990,8
+181,"Cameroon, Nigeria",Government of Cameroon,2/18/1994,5/7/1996,4,Africa,2,Interstate ,652.09,1202.76,5518.14,1994,2
+182,"Ecuador, Peru",Government of Ecuador,1/26/1995,1/31/1995,5,Americas,2,Interstate ,478.65,772.06,3928.64,1995,1
+183,"Eritrea, Ethiopia",Government of Eritrea,5/6/1998,5/31/1998,4,Africa,2,Interstate ,1090.82,1778.87,8899.95,1998,5
+184,"Eritrea, Ethiopia",Government of Eritrea,5/6/1998,5/31/1998,4,Africa,2,Interstate ,1090.82,1778.87,8899.95,1998,5
+185,"Eritrea, Ethiopia",Government of Eritrea,5/6/1998,5/31/1998,4,Africa,2,Interstate ,1090.82,1778.87,8899.95,1998,5
+186,"Eritrea, Ethiopia",Government of Eritrea,5/6/1998,6/13/2016,4,Africa,2,Interstate ,2096.07,4894.55,17865.34,1998,5
+187,"Afghanistan, United Kingdom, United States of America",Government of Afghanistan,10/7/2001,10/7/2001,"1, 3, 5",Asia,2,Interstate ,1071.38,1605.3,9119.77,2001,10
+188,"Australia, Iraq, United Kingdom, United States of America","Government of Australia, Government of United Kingdom, Government of United States of America",3/20/2003,3/23/2003,"1, 2, 3, 5",Americas,2,Interstate ,895.89,1421.84,8521.97,2003,3
+189,"Djibouti, Eritrea",Government of Djibouti,6/10/2008,6/11/2008,4,Africa,2,Interstate ,1357.5,2454.5,12307.35,2008,6
+190,"South Sudan, Sudan",Government of South Sudan,3/27/2012,3/27/2012,4,Africa,2,Interstate ,1408.47,3091.57,13212.04,2012,3
+191,India,Government of India,5/29/1997,11/15/2012,3,Asia,3,Intrastate ,1359.88,2853.13,12588.31,1997,5
+192,India,Government of India,5/29/1997,7/1/2014,3,Asia,3,Intrastate ,1985.44,4485.93,17068.26,1997,5
+193,Sudan,Government of Sudan,5/1/2011,5/19/2011,4,Africa,3,Intrastate ,1333.27,2803.32,12512.04,2011,5
+194,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+195,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+196,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+197,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+198,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+199,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+200,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+201,South Sudan,Government of South Sudan,8/20/2011,8/20/2011,4,Africa,3,Intrastate ,1123.53,2341.84,10817.65,2011,8
+202,Libya,Government of Libya,2/28/2011,11/29/2013,4,Africa,3,Intrastate ,1805.81,4059.89,16086.41,2011,2
+203,Libya,Government of Libya,2/28/2011,11/29/2013,4,Africa,3,Intrastate ,1805.81,4059.89,16086.41,2011,2
+204,Libya,Government of Libya,2/28/2011,11/29/2013,4,Africa,3,Intrastate ,1805.81,4059.89,16086.41,2011,2
+205,Libya,Government of Libya,2/28/2011,5/18/2017,4,Africa,3,Intrastate ,2381.73,6083.7,20804.84,2011,2
+206,Mali,Government of Mali,6/10/2009,6/16/2009,4,Africa,3,Intrastate ,921.23,1827.47,8539.73,2009,6
+207,Mali,Government of Mali,6/10/2009,1/24/2012,4,Africa,3,Intrastate ,1316.33,2816.55,12660.46,2009,6
+208,China,Government of China,4/5/1990,8/10/2008,3,Asia,3,Intrastate ,1296.31,2414.1,11734.32,1990,4
+209,Bangladesh,Government of Bangladesh,4/24/1994,2/8/2005,3,Asia,3,Intrastate ,1205.3,2076.66,10796.01,1994,4
+210,Bangladesh,Government of Bangladesh,4/24/1994,2/8/2005,3,Asia,3,Intrastate ,1205.3,2076.66,10796.01,1994,4
+211,Ethiopia,Government of Ethiopia,10/10/1991,10/10/1991,4,Africa,3,Intrastate ,381.45,519.05,2983.68,1991,10
+212,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,12/31/1991,3,Asia,3,Intrastate ,419.34,592.65,3201.48,1991,12
+213,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,4/17/1995,3,Asia,3,Intrastate ,508.49,823.44,4270.09,1991,12
+214,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,2/28/2000,3,Asia,3,Intrastate ,1333.36,4590.5,9862.12,1991,12
+215,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,2/28/2000,3,Asia,3,Intrastate ,1333.36,4590.5,9862.12,1991,12
+216,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,1/31/2005,3,Asia,3,Intrastate ,1171.36,2035.83,10427.2,1991,12
+217,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,1/31/2005,3,Asia,3,Intrastate ,1171.36,2035.83,10427.2,1991,12
+218,Myanmar (Burma),Government of Myanmar (Burma),12/31/1991,1/31/2005,3,Asia,3,Intrastate ,1171.36,2035.83,10427.2,1991,12
+219,Malaysia,Government of Malaysia,3/1/2013,3/2/2013,3,Asia,3,Intrastate ,1518.2,3169.74,14089.66,2013,3
+220,Syria,Government of Syria,9/10/2011,9/7/2012,2,Middle East,3,Intrastate ,1437.92,3136.42,13306.64,2011,9
+221,Syria,Government of Syria,9/10/2011,9/7/2012,2,Middle East,3,Intrastate ,1437.92,3136.42,13306.64,2011,9
+222,Syria,Government of Syria,9/10/2011,9/7/2012,2,Middle East,3,Intrastate ,1437.92,3136.42,13306.64,2011,9
+223,Syria,Government of Syria,9/10/2011,9/7/2012,2,Middle East,3,Intrastate ,1437.92,3136.42,13306.64,2011,9
+224,Ukraine,Government of Ukraine,1/22/2014,2/18/2014,1,Europe,3,Intrastate ,1836.25,4263.41,16103.3,2014,1
+225,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+226,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+227,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+228,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+229,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+230,Russia (Soviet Union),Government of Russia (Soviet Union),3/21/2015,8/1/2015,1,Europe,3,Intrastate ,2103.84,5128.28,17689.86,2015,3
+231,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,3,Intrastate ,1691.65,3613.16,15558.83,2013,3
+232,Syria,Government of Syria,3/26/2013,7/25/2013,2,Middle East,3,Intrastate ,1691.65,3613.16,15558.83,2013,3
+233,Mali,Government of Mali,1/5/2015,6/27/2015,4,Africa,3,Intrastate ,2101.49,5080.51,17946.68,2015,1
+234,Cameroon,Government of Cameroon,3/19/2015,8/11/2015,4,Africa,3,Intrastate ,2091.54,5048.24,17477.4,2015,3
+235,Chad,Government of Chad,5/27/2015,5/27/2015,4,Africa,3,Intrastate ,2107.39,5070.03,18010.68,2015,5
+236,Chad,Government of Chad,5/27/2015,5/5/2017,4,Africa,3,Intrastate ,2399.29,6100.76,21006.94,2015,5
+237,Chad,Government of Chad,5/27/2015,5/5/2017,4,Africa,3,Intrastate ,2399.29,6100.76,21006.94,2015,5
+238,Chad,Government of Chad,5/27/2015,5/5/2017,4,Africa,3,Intrastate ,2399.29,6100.76,21006.94,2015,5
+239,Chad,Government of Chad,5/27/2015,5/5/2017,4,Africa,3,Intrastate ,2399.29,6100.76,21006.94,2015,5
+240,Yemen (North Yemen),Government of Yemen (North Yemen),3/20/2015,3/20/2015,2,Middle East,3,Intrastate ,2108.1,5026.42,18127.65,2015,3
+241,Yemen (North Yemen),Government of Yemen (North Yemen),3/20/2015,5/18/2017,2,Middle East,3,Intrastate ,2381.73,6083.7,20804.84,2015,3
+242,Yemen (North Yemen),Government of Yemen (North Yemen),3/20/2015,8/20/2020,2,Middle East,3,Intrastate ,2446.3,6301.8857,21865.37,2015,3
+243,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,3,Intrastate ,2076.62,4997.7,17760.41,2015,3
+244,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,3,Intrastate ,2076.62,4997.7,17760.41,2015,3
+245,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,3,Intrastate ,2076.62,4997.7,17760.41,2015,3
+246,Kenya,Government of Kenya,3/13/2015,7/13/2015,4,Africa,3,Intrastate ,2076.62,4997.7,17760.41,2015,3
+247,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+248,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+249,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+250,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+251,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+252,Egypt,Government of Egypt,11/16/2014,1/29/2015,2,Middle East,3,Intrastate ,1994.99,4635.24,17164.95,2014,11
+253,India,Government of India,4/19/2015,6/4/2015,3,Asia,3,Intrastate ,2092.83,5068.46,17849.46,2015,4
+254,India,Government of India,4/19/2015,6/4/2015,3,Asia,3,Intrastate ,2092.83,5068.46,17849.46,2015,4
+255,India,Government of India,4/19/2015,6/4/2015,3,Asia,3,Intrastate ,2092.83,5068.46,17849.46,2015,4
+256,India,Government of India,4/19/2015,6/4/2015,3,Asia,3,Intrastate ,2092.83,5068.46,17849.46,2015,4
+257,Bangladesh,Government of Bangladesh,11/4/2015,8/29/2016,3,Asia,3,Intrastate ,2169.04,5218.92,18395.4,2015,11
+258,Bangladesh,Government of Bangladesh,11/4/2015,8/29/2016,3,Asia,3,Intrastate ,2169.04,5218.92,18395.4,2015,11
+259,Lebanon,Government of Lebanon,6/25/2014,8/3/2014,2,Middle East,3,Intrastate ,1925.15,4352.64,16493.37,2014,6
+260,Lebanon,Government of Lebanon,6/25/2014,8/3/2014,2,Middle East,3,Intrastate ,1925.15,4352.64,16493.37,2014,6
+261,Lebanon,Government of Lebanon,6/25/2014,8/19/2017,2,Middle East,3,Intrastate ,2425.55,6216.53,21674.51,2014,6
+262,Libya,Government of Libya,3/14/2015,3/18/2015,4,Africa,3,Intrastate ,2108.1,5026.42,18127.65,2015,3
+263,Algeria,Government of Algeria,10/10/2014,5/20/2015,4,Africa,3,Intrastate ,2126.06,5089.36,18232.02,2014,10
+264,Syria,Government of Syria,12/6/2015,4/23/2016,2,Middle East,3,Intrastate ,2091.58,4906.23,18003.75,2015,12
+265,Syria,Government of Syria,12/6/2015,9/8/2018,2,Middle East,3,Intrastate ,2446.3,6301.8857,21865.37,2015,12
+266,Jordan,Government of Jordan,3/2/2016,12/18/2016,2,Middle East,3,Intrastate ,2258.07,5437.16,19843.41,2016,3
+267,Turkey,Government of Turkey,7/23/2015,11/14/2015,2,Middle East,3,Intrastate ,2023.04,4927.88,17245.24,2015,7
+268,Turkey,Government of Turkey,7/23/2015,11/14/2015,2,Middle East,3,Intrastate ,2023.04,4927.88,17245.24,2015,7
+269,Turkey,Government of Turkey,7/23/2015,11/14/2015,2,Middle East,3,Intrastate ,2023.04,4927.88,17245.24,2015,7
+270,Pakistan,Government of Pakistan,2/12/2016,10/24/2016,3,Asia,3,Intrastate ,2141.16,5257.4,18145.71,2016,2
+271,Pakistan,Government of Pakistan,2/12/2016,10/24/2016,3,Asia,3,Intrastate ,2141.16,5257.4,18145.71,2016,2
+272,Pakistan,Government of Pakistan,2/12/2016,10/24/2016,3,Asia,3,Intrastate ,2141.16,5257.4,18145.71,2016,2
+273,Pakistan,Government of Pakistan,2/12/2016,10/24/2016,3,Asia,3,Intrastate ,2141.16,5257.4,18145.71,2016,2
+274,Somalia,Government of Somalia,7/18/2016,5/15/2018,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,2016,7
+275,Iran,Government of Iran,8/15/2016,6/11/2017,2,Middle East,3,Intrastate ,2431.77,6207.92,21271.97,2016,8
+276,Philippines,Government of Philippines,6/1/2016,6/1/2016,3,Asia,3,Intrastate ,2099.13,4942.52,17807.06,2016,6
+277,Philippines,Government of Philippines,6/1/2016,6/1/2016,3,Asia,3,Intrastate ,2099.13,4942.52,17807.06,2016,6
+278,Philippines,Government of Philippines,6/1/2016,6/1/2016,3,Asia,3,Intrastate ,2099.13,4942.52,17807.06,2016,6
+279,Philippines,Government of Philippines,6/1/2016,6/1/2016,3,Asia,3,Intrastate ,2099.13,4942.52,17807.06,2016,6
+280,Philippines,Government of Philippines,6/1/2016,6/1/2016,3,Asia,3,Intrastate ,2099.13,4942.52,17807.06,2016,6
+281,Tunisia,Government of Tunisia,3/18/2015,3/7/2016,4,Africa,3,Intrastate ,1999.99,4717.02,17006.77,2015,3
+282,Guinea,Government of Guinea,9/1/2000,9/17/2000,4,Africa,3,Intrastate ,1465.81,3835.23,10927.0,2000,9
+283,Guinea,Government of Guinea,9/1/2000,9/17/2000,4,Africa,3,Intrastate ,1465.81,3835.23,10927.0,2000,9
+284,Eritrea,Government of Eritrea,12/16/1993,6/30/1997,4,Africa,3,Intrastate ,916.92,1467.61,7895.81,1993,12
+285,Eritrea,Government of Eritrea,12/16/1993,4/4/1999,4,Africa,3,Intrastate ,1293.72,2493.37,9832.51,1993,12
+286,Eritrea,Government of Eritrea,12/16/1993,7/17/2003,4,Africa,3,Intrastate ,993.32,1708.5,9188.15,1993,12
+287,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+288,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+289,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+290,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+291,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+292,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+293,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+294,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+295,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+296,Mozambique,Government of Mozambique,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+297,Mozambique,Government of Mozambique,12/31/1977,10/12/2013,4,Africa,3,Intrastate ,1703.2,3791.87,15237.11,1977,12
+298,Mozambique,Government of Mozambique,12/31/1977,10/12/2013,4,Africa,3,Intrastate ,1703.2,3791.87,15237.11,1977,12
+299,Mozambique,Government of Mozambique,12/31/1977,4/10/2016,4,Africa,3,Intrastate ,2047.6,4850.69,17576.96,1977,12
+300,Mozambique,Government of Mozambique,12/31/1977,7/10/2018,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,1977,12
+301,Mozambique,Government of Mozambique,12/31/1977,7/10/2018,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,1977,12
+302,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+303,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+304,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+305,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+306,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+307,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+308,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+309,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+310,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+311,India,Government of India,7/9/1979,12/31/1979,3,Asia,3,Intrastate ,107.84,150.83,838.91,1979,7
+312,India,Government of India,7/9/1979,10/12/1992,3,Asia,3,Intrastate ,402.66,570.52,3136.58,1979,7
+313,India,Government of India,7/9/1979,6/10/1997,3,Asia,3,Intrastate ,893.27,1423.03,7782.04,1979,7
+314,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+315,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+316,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+317,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+318,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+319,India,Government of India,7/9/1979,9/26/1999,3,Asia,3,Intrastate ,1277.36,,,1979,7
+320,Somalia,Government of Somalia,1/18/1982,12/31/1982,4,Africa,3,Intrastate ,140.64,232.41,1046.54,1982,1
+321,Somalia,Government of Somalia,1/18/1982,12/31/1982,4,Africa,3,Intrastate ,140.64,232.41,1046.54,1982,1
+322,Somalia,Government of Somalia,1/18/1982,12/31/1982,4,Africa,3,Intrastate ,140.64,232.41,1046.54,1982,1
+323,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+324,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+325,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+326,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+327,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+328,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+329,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+330,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+331,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+332,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+333,Somalia,Government of Somalia,1/18/1982,3/3/1986,4,Africa,3,Intrastate ,226.92,359.5,1709.06,1982,1
+334,Somalia,Government of Somalia,1/18/1982,5/12/2001,4,Africa,3,Intrastate ,1245.67,2107.43,10821.31,1982,1
+335,Somalia,Government of Somalia,1/18/1982,5/12/2001,4,Africa,3,Intrastate ,1245.67,2107.43,10821.31,1982,1
+336,Iran,Government of Iran,5/30/1979,5/31/1979,2,Middle East,3,Intrastate ,99.17,131.76,821.21,1979,5
+337,Iran,Government of Iran,5/30/1979,5/31/1979,2,Middle East,3,Intrastate ,99.17,131.76,821.21,1979,5
+338,Saudi Arabia,Government of Saudi Arabia,11/20/1979,11/20/1979,2,Middle East,3,Intrastate ,104.67,139.85,811.77,1979,11
+339,Liberia,Government of Liberia,4/12/1980,4/12/1980,4,Africa,3,Intrastate ,103.79,137.75,791.55,1980,4
+340,Liberia,Government of Liberia,4/12/1980,12/26/1989,4,Africa,3,Intrastate ,353.4,454.8,2753.2,1980,4
+341,Liberia,Government of Liberia,4/12/1980,12/26/1989,4,Africa,3,Intrastate ,353.4,454.8,2753.2,1980,4
+342,Liberia,Government of Liberia,4/12/1980,5/31/2000,4,Africa,3,Intrastate ,1477.26,3813.38,10794.76,1980,4
+343,Liberia,Government of Liberia,4/12/1980,5/31/2000,4,Africa,3,Intrastate ,1477.26,3813.38,10794.76,1980,4
+344,Liberia,Government of Liberia,4/12/1980,5/31/2000,4,Africa,3,Intrastate ,1477.26,3813.38,10794.76,1980,4
+345,Liberia,Government of Liberia,4/12/1980,5/31/2000,4,Africa,3,Intrastate ,1477.26,3813.38,10794.76,1980,4
+346,Tunisia,Government of Tunisia,1/27/1980,1/28/1980,4,Africa,3,Intrastate ,113.61,159.7,876.11,1980,1
+347,South Africa,Government of South Africa,2/1/1978,8/7/1981,4,Africa,3,Intrastate ,131.75,211.36,942.54,1978,2
+348,South Africa,Government of South Africa,2/1/1978,8/7/1981,4,Africa,3,Intrastate ,131.75,211.36,942.54,1978,2
+349,South Africa,Government of South Africa,2/1/1978,8/7/1981,4,Africa,3,Intrastate ,131.75,211.36,942.54,1978,2
+350,South Africa,Government of South Africa,2/1/1978,6/26/1985,4,Africa,3,Intrastate ,191.85,296.2,1335.46,1978,2
+351,South Africa,Government of South Africa,2/1/1978,6/26/1985,4,Africa,3,Intrastate ,191.85,296.2,1335.46,1978,2
+352,South Africa,Government of South Africa,2/1/1978,6/26/1985,4,Africa,3,Intrastate ,191.85,296.2,1335.46,1978,2
+353,South Africa,Government of South Africa,2/1/1978,6/26/1985,4,Africa,3,Intrastate ,191.85,296.2,1335.46,1978,2
+354,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+355,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+356,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+357,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+358,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+359,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+360,India,Government of India,4/26/1979,7/31/1982,3,Asia,3,Intrastate ,107.09,167.35,808.6,1979,4
+361,India,Government of India,4/26/1979,12/31/1993,3,Asia,3,Intrastate ,466.45,776.8,3754.09,1979,4
+362,India,Government of India,4/26/1979,12/31/1993,3,Asia,3,Intrastate ,466.45,776.8,3754.09,1979,4
+363,India,Government of India,4/26/1979,12/31/1993,3,Asia,3,Intrastate ,466.45,776.8,3754.09,1979,4
+364,India,Government of India,4/26/1979,12/31/1993,3,Asia,3,Intrastate ,466.45,776.8,3754.09,1979,4
+365,India,Government of India,4/26/1979,12/31/1998,3,Asia,3,Intrastate ,1229.23,2192.69,9181.43,1979,4
+366,India,Government of India,4/26/1979,12/31/1998,3,Asia,3,Intrastate ,1229.23,2192.69,9181.43,1979,4
+367,India,Government of India,4/26/1979,12/31/1998,3,Asia,3,Intrastate ,1229.23,2192.69,9181.43,1979,4
+368,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+369,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+370,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+371,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+372,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+373,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+374,India,Government of India,4/26/1979,7/21/2003,3,Asia,3,Intrastate ,993.32,1708.5,9188.15,1979,4
+375,Kenya,Government of Kenya,8/1/1982,8/1/1982,4,Africa,3,Intrastate ,107.09,167.35,808.6,1982,8
+376,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+377,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+378,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+379,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+380,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+381,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+382,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+383,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+384,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+385,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+386,India,Government of India,9/20/1981,12/31/1983,3,Asia,3,Intrastate ,164.93,278.6,1258.64,1981,9
+387,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+388,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+389,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+390,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+391,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+392,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+393,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+394,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+395,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+396,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+397,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+398,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+399,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+400,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+401,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+402,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+403,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+404,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+405,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+406,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+407,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+408,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+409,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+410,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+411,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+412,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+413,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+414,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+415,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+416,Turkey,Government of Turkey,5/1/1983,8/15/1984,2,Middle East,3,Intrastate ,164.14,250.37,1211.9,1983,5
+417,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+418,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+419,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+420,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+421,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+422,Turkey,Government of Turkey,5/1/1983,7/30/2015,2,Middle East,3,Intrastate ,2103.84,5128.28,17689.86,1983,5
+423,Suriname,Government of Suriname,8/21/1986,10/12/1987,5,Americas,3,Intrastate ,311.07,438.4,2482.21,1986,8
+424,Togo,Government of Togo,9/23/1986,9/23/1986,4,Africa,3,Intrastate ,232.23,351.6,1769.69,1986,9
+425,South Yemen,Government of South Yemen,1/13/1986,1/13/1986,2,Middle East,3,Intrastate ,205.96,324.4,1513.53,1986,1
+426,Burkina Faso,Government of Burkina Faso,10/15/1987,10/15/1987,4,Africa,3,Intrastate ,282.7,406.3,2246.73,1987,10
+427,Comoros,Government of Comoros,11/27/1989,11/29/1989,4,Africa,3,Intrastate ,350.63,457.1,2747.65,1989,11
+428,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+429,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+430,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+431,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+432,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+433,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+434,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+435,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+436,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+437,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+438,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+439,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+440,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+441,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+442,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+443,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+444,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+445,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+446,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+447,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+448,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+449,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+450,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+451,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+452,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+453,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+454,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+455,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+456,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+457,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+458,India,Government of India,2/6/1984,2/12/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1984,2
+459,India,Government of India,12/31/1983,11/30/1990,3,Asia,3,Intrastate ,322.22,359.1,2559.65,1983,12
+460,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+461,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+462,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+463,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+464,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+465,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+466,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+467,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+468,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+469,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+470,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+471,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+472,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+473,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+474,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+475,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+476,India,Government of India,12/31/1983,12/31/1994,3,Asia,3,Intrastate ,459.27,751.96,3834.44,1983,12
+477,Indonesia,Government of Indonesia,5/2/1989,6/6/1990,3,Asia,3,Intrastate ,358.71,460.9,2862.38,1989,5
+478,Indonesia,Government of Indonesia,5/2/1989,6/6/1990,3,Asia,3,Intrastate ,358.71,460.9,2862.38,1989,5
+479,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+480,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+481,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+482,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+483,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+484,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+485,Indonesia,Government of Indonesia,5/2/1989,6/1/1999,3,Asia,3,Intrastate ,1327.75,2478.34,10799.84,1989,5
+486,Panama,Government of Panama,10/3/1989,10/3/1989,5,Americas,3,Intrastate ,358.78,483.6,2785.52,1989,10
+487,Papua New Guinea,Government of Papua New Guinea,4/6/1989,2/7/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1989,4
+488,Papua New Guinea,Government of Papua New Guinea,4/6/1989,8/2/1992,3,Asia,3,Intrastate ,424.21,580.83,3393.78,1989,4
+489,Papua New Guinea,Government of Papua New Guinea,4/6/1989,8/2/1992,3,Asia,3,Intrastate ,424.21,580.83,3393.78,1989,4
+490,Papua New Guinea,Government of Papua New Guinea,4/6/1989,8/2/1992,3,Asia,3,Intrastate ,424.21,580.83,3393.78,1989,4
+491,Papua New Guinea,Government of Papua New Guinea,4/6/1989,8/2/1992,3,Asia,3,Intrastate ,424.21,580.83,3393.78,1989,4
+492,Papua New Guinea,Government of Papua New Guinea,4/6/1989,8/2/1992,3,Asia,3,Intrastate ,424.21,580.83,3393.78,1989,4
+493,Romania,Government of Romania,12/17/1989,12/22/1989,1,Europe,3,Intrastate ,347.42,444.6,2711.39,1989,12
+494,Mali,Government of Mali,6/28/1990,7/21/1990,4,Africa,3,Intrastate ,361.61,455.3,2961.14,1990,6
+495,Mali,Government of Mali,6/28/1990,7/21/1990,4,Africa,3,Intrastate ,361.61,455.3,2961.14,1990,6
+496,Mali,Government of Mali,6/28/1990,10/4/1994,4,Africa,3,Intrastate ,455.1,749.96,3797.43,1990,6
+497,Mali,Government of Mali,6/28/1990,8/31/2007,4,Africa,3,Intrastate ,1473.99,2596.36,13357.74,1990,6
+498,Mali,Government of Mali,6/28/1990,8/31/2007,4,Africa,3,Intrastate ,1473.99,2596.36,13357.74,1990,6
+499,Mali,Government of Mali,6/28/1990,8/31/2007,4,Africa,3,Intrastate ,1473.99,2596.36,13357.74,1990,6
+500,Mali,Government of Mali,6/28/1990,1/24/2012,4,Africa,3,Intrastate ,1316.33,2816.55,12660.46,1990,6
+501,Mali,Government of Mali,6/28/1990,5/17/2014,4,Africa,3,Intrastate ,1877.86,4090.59,16491.31,1990,6
+502,Niger,Government of Niger,1/19/1994,5/16/1994,4,Africa,3,Intrastate ,444.14,716.92,3659.68,1994,1
+503,Rwanda,Government of Rwanda,10/1/1990,10/3/1990,4,Africa,3,Intrastate ,311.5,347.4,2510.64,1990,10
+504,Rwanda,Government of Rwanda,10/1/1990,10/3/1990,4,Africa,3,Intrastate ,311.5,347.4,2510.64,1990,10
+505,Rwanda,Government of Rwanda,10/1/1990,10/3/1990,4,Africa,3,Intrastate ,311.5,347.4,2510.64,1990,10
+506,Rwanda,Government of Rwanda,10/1/1990,10/3/1990,4,Africa,3,Intrastate ,311.5,347.4,2510.64,1990,10
+507,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+508,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+509,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+510,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+511,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+512,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+513,Rwanda,Government of Rwanda,10/1/1990,7/12/1996,4,Africa,3,Intrastate ,646.19,1103.49,5510.56,1990,10
+514,Senegal,Government of Senegal,12/31/1988,8/31/1990,4,Africa,3,Intrastate ,322.56,381.2,2614.36,1988,12
+515,Senegal,Government of Senegal,12/31/1988,9/1/1992,4,Africa,3,Intrastate ,417.08,573.44,3281.93,1988,12
+516,Senegal,Government of Senegal,12/31/1988,9/1/1992,4,Africa,3,Intrastate ,417.08,573.44,3281.93,1988,12
+517,Senegal,Government of Senegal,12/31/1988,4/27/1995,4,Africa,3,Intrastate ,514.71,843.98,4321.27,1988,12
+518,Senegal,Government of Senegal,12/31/1988,3/18/1997,4,Africa,3,Intrastate ,784.1,1254.07,6804.79,1988,12
+519,Senegal,Government of Senegal,12/31/1988,3/18/1997,4,Africa,3,Intrastate ,784.1,1254.07,6804.79,1988,12
+520,Senegal,Government of Senegal,12/31/1988,4/11/2000,4,Africa,3,Intrastate ,1357.31,3321.29,10305.77,1988,12
+521,Senegal,Government of Senegal,12/31/1988,4/11/2000,4,Africa,3,Intrastate ,1357.31,3321.29,10305.77,1988,12
+522,Senegal,Government of Senegal,12/31/1988,1/20/2003,4,Africa,3,Intrastate ,901.78,1376.19,8586.74,1988,12
+523,Senegal,Government of Senegal,12/31/1988,12/20/2011,4,Africa,3,Intrastate ,1265.33,2618.64,12294.0,1988,12
+524,Russia (Soviet Union),Government of Russia (Soviet Union),1/19/1990,8/31/1990,1,Europe,3,Intrastate ,322.56,381.2,2614.36,1990,1
+525,Russia (Soviet Union),Government of Russia (Soviet Union),1/19/1990,8/31/1990,1,Europe,3,Intrastate ,322.56,381.2,2614.36,1990,1
+526,Russia (Soviet Union),Government of Russia (Soviet Union),1/20/1990,1/23/1990,1,Europe,3,Intrastate ,325.8,421.3,2559.23,1990,1
+527,Trinidad and Tobago,Government of Trinidad and Tobago,7/27/1990,8/2/1990,5,Americas,3,Intrastate ,344.86,417.5,2809.65,1990,7
+528,Djibouti,Government of Djibouti,11/12/1991,11/13/1991,4,Africa,3,Intrastate ,382.62,531.29,2943.2,1991,11
+529,Djibouti,Government of Djibouti,11/12/1991,11/13/1991,4,Africa,3,Intrastate ,382.62,531.29,2943.2,1991,11
+530,Djibouti,Government of Djibouti,11/12/1991,11/13/1991,4,Africa,3,Intrastate ,382.62,531.29,2943.2,1991,11
+531,Djibouti,Government of Djibouti,11/12/1991,11/13/1991,4,Africa,3,Intrastate ,382.62,531.29,2943.2,1991,11
+532,Djibouti,Government of Djibouti,11/12/1991,7/24/1999,4,Africa,3,Intrastate ,1356.94,2692.4,10910.96,1991,11
+533,Georgia,Government of Georgia,12/22/1991,12/28/1991,1,Europe,3,Intrastate ,406.46,565.71,3101.52,1991,12
+534,Georgia,Government of Georgia,12/22/1991,12/28/1991,1,Europe,3,Intrastate ,406.46,565.71,3101.52,1991,12
+535,Georgia,Government of Georgia,12/22/1991,12/28/1991,1,Europe,3,Intrastate ,406.46,565.71,3101.52,1991,12
+536,Haiti,Government of Haiti,4/3/1989,4/8/1989,5,Americas,3,Intrastate ,297.16,410.7,2304.8,1989,4
+537,Haiti,Government of Haiti,4/3/1989,10/2/1991,5,Americas,3,Intrastate ,381.25,520.4,2961.76,1989,4
+538,Haiti,Government of Haiti,4/3/1989,2/8/2004,5,Americas,3,Intrastate ,1142.76,2064.01,10593.03,1989,4
+539,Sierra Leone,Government of Sierra Leone,3/23/1991,4/1/1991,4,Africa,3,Intrastate ,375.36,495.79,2896.78,1991,3
+540,Turkey,Government of Turkey,12/31/1987,7/13/1991,2,Middle East,3,Intrastate ,380.25,492.71,2980.77,1987,12
+541,Turkey,Government of Turkey,12/31/1987,7/13/1991,2,Middle East,3,Intrastate ,380.25,492.71,2980.77,1987,12
+542,Turkey,Government of Turkey,12/31/1987,7/16/1995,2,Middle East,3,Intrastate ,559.89,999.33,4708.82,1987,12
+543,Turkey,Government of Turkey,12/31/1987,6/17/2005,2,Middle East,3,Intrastate ,1216.96,2090.11,10623.07,1987,12
+544,Turkey,Government of Turkey,12/31/1987,2/17/2016,2,Middle East,3,Intrastate ,1917.78,4504.43,16391.99,1987,12
+545,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),6/27/1991,6/28/1991,1,Europe,3,Intrastate ,371.16,475.92,2906.75,1991,6
+546,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),7/9/1991,7/27/1991,1,Europe,3,Intrastate ,380.93,492.69,2972.5,1991,7
+547,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),7/9/1991,7/27/1991,1,Europe,3,Intrastate ,380.93,492.69,2972.5,1991,7
+548,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+549,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+550,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+551,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+552,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+553,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+554,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+555,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+556,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+557,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+558,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+559,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+560,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+561,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+562,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+563,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+564,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+565,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+566,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+567,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+568,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+569,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+570,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+571,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+572,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+573,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+574,Algeria,Government of Algeria,8/27/1985,12/9/1991,4,Africa,3,Intrastate ,379.1,536.3,2886.4,1985,8
+575,Algeria,Government of Algeria,8/27/1985,12/2/2020,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,1985,8
+576,Angola,Government of Angola,8/4/1989,12/31/1991,4,Africa,3,Intrastate ,419.34,592.65,3201.48,1989,8
+577,Angola,Government of Angola,8/4/1989,12/31/1991,4,Africa,3,Intrastate ,419.34,592.65,3201.48,1989,8
+578,Angola,Government of Angola,8/4/1989,12/31/1994,4,Africa,3,Intrastate ,459.27,751.96,3834.44,1989,8
+579,Angola,Government of Angola,8/4/1989,12/31/1994,4,Africa,3,Intrastate ,459.27,751.96,3834.44,1989,8
+580,Angola,Government of Angola,8/4/1989,12/31/1994,4,Africa,3,Intrastate ,459.27,751.96,3834.44,1989,8
+581,Angola,Government of Angola,8/4/1989,12/31/1994,4,Africa,3,Intrastate ,459.27,751.96,3834.44,1989,8
+582,Angola,Government of Angola,8/4/1989,12/31/1994,4,Africa,3,Intrastate ,459.27,751.96,3834.44,1989,8
+583,Angola,Government of Angola,8/4/1989,11/12/2002,4,Africa,3,Intrastate ,909.83,1411.14,8579.09,1989,8
+584,Angola,Government of Angola,8/4/1989,11/12/2002,4,Africa,3,Intrastate ,909.83,1411.14,8579.09,1989,8
+585,Angola,Government of Angola,8/4/1989,11/12/2002,4,Africa,3,Intrastate ,909.83,1411.14,8579.09,1989,8
+586,Angola,Government of Angola,8/4/1989,12/31/2007,4,Africa,3,Intrastate ,1478.49,2674.46,13365.87,1989,8
+587,Angola,Government of Angola,8/4/1989,12/31/2009,4,Africa,3,Intrastate ,1144.98,2317.17,10618.19,1989,8
+588,Angola,Government of Angola,8/4/1989,12/31/2016,4,Africa,3,Intrastate ,2238.83,5383.12,19762.6,1989,8
+589,Angola,Government of Angola,8/4/1989,12/31/2016,4,Africa,3,Intrastate ,2238.83,5383.12,19762.6,1989,8
+590,Angola,Government of Angola,8/4/1989,12/31/2019,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,1989,8
+591,Angola,Government of Angola,8/4/1989,12/31/2019,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,1989,8
+592,Azerbaijan,Government of Azerbaijan,12/29/1991,12/30/1991,1,Europe,3,Intrastate ,406.46,565.71,3101.52,1991,12
+593,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,4/27/1992,4/27/1992,1,Europe,3,Intrastate ,409.02,572.89,3324.46,1992,4
+594,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,4/27/1992,4/27/1992,1,Europe,3,Intrastate ,409.02,572.89,3324.46,1992,4
+595,Croatia,Government of Croatia,4/23/1992,5/1/1995,1,Europe,3,Intrastate ,514.71,843.98,4321.27,1992,4
+596,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+597,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+598,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+599,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+600,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+601,Egypt,Government of Egypt,10/8/1981,3/10/1993,2,Middle East,3,Intrastate ,449.83,692.78,3427.82,1981,10
+602,Egypt,Government of Egypt,10/8/1981,4/24/2014,2,Middle East,3,Intrastate ,1863.4,4075.56,16361.46,1981,10
+603,Egypt,Government of Egypt,10/8/1981,7/14/2017,2,Middle East,3,Intrastate ,2459.27,6312.47,21637.74,1981,10
+604,Egypt,Government of Egypt,10/8/1981,7/14/2017,2,Middle East,3,Intrastate ,2459.27,6312.47,21637.74,1981,10
+605,Egypt,Government of Egypt,10/8/1981,7/14/2017,2,Middle East,3,Intrastate ,2459.27,6312.47,21637.74,1981,10
+606,Georgia,Government of Georgia,8/14/1992,8/17/1992,1,Europe,3,Intrastate ,419.91,573.18,3328.94,1992,8
+607,Georgia,Government of Georgia,8/14/1992,8/17/1992,1,Europe,3,Intrastate ,419.91,573.18,3328.94,1992,8
+608,Georgia,Government of Georgia,5/12/1992,6/8/1992,1,Europe,3,Intrastate ,413.48,585.43,3398.69,1992,5
+609,Georgia,Government of Georgia,5/12/1992,8/19/2004,1,Europe,3,Intrastate ,1098.35,1838.02,10110.14,1992,5
+610,Moldova,Government of Moldova,3/1/1992,3/17/1992,1,Europe,3,Intrastate ,411.3,624.28,3276.39,1992,3
+611,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,3,Intrastate ,416.05,585.76,3369.41,1992,5
+612,Tajikistan,Government of Tajikistan,5/5/1992,5/10/1992,3,Asia,3,Intrastate ,416.05,585.76,3369.41,1992,5
+613,Tajikistan,Government of Tajikistan,5/5/1992,9/6/2000,3,Asia,3,Intrastate ,1494.5,3978.41,11220.65,1992,5
+614,Tajikistan,Government of Tajikistan,5/5/1992,9/9/2010,3,Asia,3,Intrastate ,1109.55,2242.48,10462.77,1992,5
+615,Tajikistan,Government of Tajikistan,5/5/1992,9/9/2010,3,Asia,3,Intrastate ,1109.55,2242.48,10462.77,1992,5
+616,Azerbaijan,Government of Azerbaijan,5/15/1992,6/6/1993,1,Europe,3,Intrastate ,450.06,702.01,3545.14,1992,5
+617,Azerbaijan,Government of Azerbaijan,5/15/1992,3/17/1995,1,Europe,3,Intrastate ,495.52,808.33,4073.65,1992,5
+618,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,6/28/1992,10/5/1993,1,Europe,3,Intrastate ,460.31,764.27,3584.74,1992,6
+619,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,6/28/1992,10/5/1993,1,Europe,3,Intrastate ,460.31,764.27,3584.74,1992,6
+620,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,6/28/1992,10/5/1993,1,Europe,3,Intrastate ,460.31,764.27,3584.74,1992,6
+621,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,5/27/1992,1/14/1993,1,Europe,3,Intrastate ,437.15,697.15,3271.12,1992,5
+622,Russia (Soviet Union),Government of Russia (Soviet Union),8/20/1991,10/3/1993,1,Europe,3,Intrastate ,461.28,763.23,3581.11,1991,8
+623,Mexico,Government of Mexico,1/1/1994,1/1/1994,5,Americas,3,Intrastate ,466.45,776.8,3754.09,1994,1
+624,Mexico,Government of Mexico,1/1/1994,8/30/1996,5,Americas,3,Intrastate ,651.99,1141.5,5616.21,1994,1
+625,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,11/26/1994,1,Europe,3,Intrastate ,452.29,742.52,3708.27,1994,5
+626,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,11/26/1994,1,Europe,3,Intrastate ,452.29,742.52,3708.27,1994,5
+627,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,11/26/1994,1,Europe,3,Intrastate ,452.29,742.52,3708.27,1994,5
+628,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+629,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+630,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+631,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+632,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+633,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+634,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+635,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+636,Russia (Soviet Union),Government of Russia (Soviet Union),5/27/1994,8/11/1999,1,Europe,3,Intrastate ,1327.68,2637.81,10973.65,1994,5
+637,Yemen (North Yemen),Government of Yemen (North Yemen),2/21/1994,4/28/1994,2,Middle East,3,Intrastate ,450.91,733.84,3681.69,1994,2
+638,Pakistan,Government of Pakistan,2/11/1990,2/11/1990,3,Asia,3,Intrastate ,333.62,428.8,2648.2,1990,2
+639,Pakistan,Government of Pakistan,2/11/1990,5/3/1994,3,Asia,3,Intrastate ,447.82,732.86,3669.5,1990,2
+640,Pakistan,Government of Pakistan,2/11/1990,5/3/1994,3,Asia,3,Intrastate ,447.82,732.86,3669.5,1990,2
+641,Pakistan,Government of Pakistan,2/11/1990,5/3/1994,3,Asia,3,Intrastate ,447.82,732.86,3669.5,1990,2
+642,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+643,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+644,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+645,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+646,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+647,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+648,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+649,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+650,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+651,Pakistan,Government of Pakistan,2/11/1990,7/15/2007,3,Asia,3,Intrastate ,1552.5,2707.0,13907.25,1990,2
+652,Niger,Government of Niger,3/23/1995,7/10/1995,4,Africa,3,Intrastate ,556.37,969.76,4702.73,1995,3
+653,Comoros,Government of Comoros,9/3/1997,9/5/1997,4,Africa,3,Intrastate ,929.05,1635.77,7822.41,1997,9
+654,Congo,Government of Congo,11/3/1993,11/11/1993,4,Africa,3,Intrastate ,465.39,779.32,3684.51,1993,11
+655,Congo,Government of Congo,11/3/1993,4/5/2016,4,Africa,3,Intrastate ,2047.6,4850.69,17576.96,1993,11
+656,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),4/22/1996,3/6/1998,1,Europe,3,Intrastate ,1055.69,1753.49,8569.39,1996,4
+657,Russia (Soviet Union),Government of Russia (Soviet Union),8/29/1999,9/2/1999,1,Europe,3,Intrastate ,1357.24,2843.11,11078.45,1999,8
+658,Uzbekistan,Government of Uzbekistan,2/16/1999,3/30/1999,3,Asia,3,Intrastate ,1293.72,2493.37,9832.51,1999,2
+659,Uzbekistan,Government of Uzbekistan,2/16/1999,3/30/2004,3,Asia,3,Intrastate ,1141.81,2057.17,10470.59,1999,2
+660,Central African Republic,Government of Central African Republic,5/27/2001,6/1/2001,4,Africa,3,Intrastate ,1260.67,2149.44,10990.41,2001,5
+661,Central African Republic,Government of Central African Republic,5/27/2001,11/26/2009,4,Africa,3,Intrastate ,1091.49,2138.44,10309.92,2001,5
+662,Central African Republic,Government of Central African Republic,5/27/2001,11/26/2009,4,Africa,3,Intrastate ,1091.49,2138.44,10309.92,2001,5
+663,Central African Republic,Government of Central African Republic,5/27/2001,11/26/2009,4,Africa,3,Intrastate ,1091.49,2138.44,10309.92,2001,5
+664,Central African Republic,Government of Central African Republic,5/27/2001,5/17/2018,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,2001,5
+665,Central African Republic,Government of Central African Republic,5/27/2001,5/17/2018,4,Africa,3,Intrastate ,2446.3,6301.8857,21865.37,2001,5
+666,North Macedonia,Government of North Macedonia,1/11/2000,5/3/2001,1,Europe,3,Intrastate ,1266.61,2191.53,10951.24,2000,1
+667,Ivory Coast,Government of Ivory Coast,9/19/2002,9/20/2002,4,Africa,3,Intrastate ,845.39,1221.09,7986.02,2002,9
+668,Ivory Coast,Government of Ivory Coast,9/19/2002,9/20/2002,4,Africa,3,Intrastate ,845.39,1221.09,7986.02,2002,9
+669,Ivory Coast,Government of Ivory Coast,9/19/2002,9/20/2002,4,Africa,3,Intrastate ,845.39,1221.09,7986.02,2002,9
+670,Ivory Coast,Government of Ivory Coast,9/19/2002,2/25/2011,4,Africa,3,Intrastate ,1319.88,2781.05,12130.45,2002,9
+671,India,Government of India,2/16/1989,3/16/1989,3,Asia,3,Intrastate ,292.69,402.2,2292.14,1989,2
+672,India,Government of India,2/16/1989,3/16/1989,3,Asia,3,Intrastate ,292.69,402.2,2292.14,1989,2
+673,India,Government of India,2/16/1989,7/23/1994,3,Asia,3,Intrastate ,453.11,716.68,3735.04,1989,2
+674,India,Government of India,2/16/1989,10/28/1996,3,Asia,3,Intrastate ,700.92,1222.6,6007.02,1989,2
+675,India,Government of India,2/16/1989,10/28/1996,3,Asia,3,Intrastate ,700.92,1222.6,6007.02,1989,2
+676,India,Government of India,2/16/1989,10/28/1996,3,Asia,3,Intrastate ,700.92,1222.6,6007.02,1989,2
+677,India,Government of India,2/16/1989,10/28/1996,3,Asia,3,Intrastate ,700.92,1222.6,6007.02,1989,2
+678,India,Government of India,2/16/1989,8/4/2001,3,Asia,3,Intrastate ,1214.35,2066.33,10512.78,1989,2
+679,India,Government of India,2/16/1989,8/4/2001,3,Asia,3,Intrastate ,1214.35,2066.33,10512.78,1989,2
+680,India,Government of India,2/16/1989,8/4/2001,3,Asia,3,Intrastate ,1214.35,2066.33,10512.78,1989,2
+681,India,Government of India,2/16/1989,8/4/2001,3,Asia,3,Intrastate ,1214.35,2066.33,10512.78,1989,2
+682,India,Government of India,2/16/1989,6/11/2009,3,Asia,3,Intrastate ,946.21,1858.8,8799.26,1989,2
+683,India,Government of India,2/16/1989,6/11/2009,3,Asia,3,Intrastate ,946.21,1858.8,8799.26,1989,2
+684,India,Government of India,2/16/1989,12/11/2013,3,Asia,3,Intrastate ,1775.32,4000.98,15755.36,1989,2
+685,India,Government of India,2/16/1989,12/11/2013,3,Asia,3,Intrastate ,1775.32,4000.98,15755.36,1989,2
+686,Myanmar (Burma),Government of Myanmar (Burma),3/16/1997,3/16/1997,3,Asia,3,Intrastate ,793.17,1292.97,6935.46,1997,3
+687,Nigeria,Government of Nigeria,12/22/2003,1/6/2004,4,Africa,3,Intrastate ,1121.86,2086.92,10458.89,2003,12
+688,Nigeria,Government of Nigeria,6/4/2004,6/4/2004,4,Africa,3,Intrastate ,1122.5,1978.62,10242.82,2004,6
+689,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+690,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+691,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+692,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+693,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+694,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+695,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+696,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+697,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+698,Israel,Government of Israel,9/30/1986,7/10/1990,2,Middle East,3,Intrastate ,367.31,468.4,2980.2,1986,9
+699,Israel,Government of Israel,9/30/1986,7/13/2006,2,Middle East,3,Intrastate ,1236.2,2037.35,10739.35,1986,9
+700,DR Congo (Zaire),Government of DR Congo (Zaire),7/2/1998,2/1/2007,4,Africa,3,Intrastate ,1448.39,2475.88,12653.49,1998,7
+701,DR Congo (Zaire),Government of DR Congo (Zaire),7/2/1998,2/1/2007,4,Africa,3,Intrastate ,1448.39,2475.88,12653.49,1998,7
+702,Niger,Government of Niger,10/25/1991,12/31/1991,4,Africa,3,Intrastate ,419.34,592.65,3201.48,1991,10
+703,Niger,Government of Niger,10/25/1991,12/31/1991,4,Africa,3,Intrastate ,419.34,592.65,3201.48,1991,10
+704,Niger,Government of Niger,10/25/1991,10/19/1997,4,Africa,3,Intrastate ,944.16,1666.85,7847.03,1991,10
+705,Niger,Government of Niger,10/25/1991,4/30/2007,4,Africa,3,Intrastate ,1494.07,2557.21,13120.94,1991,10
+706,Niger,Government of Niger,10/25/1991,4/30/2007,4,Africa,3,Intrastate ,1494.07,2557.21,13120.94,1991,10
+707,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+708,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+709,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+710,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+711,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+712,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+713,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+714,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+715,Russia (Soviet Union),Government of Russia (Soviet Union),10/7/2007,11/28/2007,1,Europe,3,Intrastate ,1481.14,2660.96,13371.72,2007,10
+716,India,Government of India,6/20/2000,12/22/2008,3,Asia,3,Intrastate ,887.88,1564.32,8579.11,2000,6
+717,Ethiopia,Government of Ethiopia,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+718,Ethiopia,Government of Ethiopia,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+719,Ethiopia,Government of Ethiopia,12/31/1977,12/31/1977,4,Africa,3,Intrastate ,95.1,105.05,831.17,1977,12
+720,Ethiopia,Government of Ethiopia,3/21/1981,3/21/1981,4,Africa,3,Intrastate ,134.08,206.29,992.8,1981,3
+721,Ethiopia,Government of Ethiopia,3/21/1981,3/16/1983,4,Africa,3,Intrastate ,149.9,265.01,1117.74,1981,3
+722,Myanmar (Burma),Government of Myanmar (Burma),8/27/2009,8/29/2009,3,Asia,3,Intrastate ,1028.93,2028.77,9544.2,2009,8
+723,Myanmar (Burma),Government of Myanmar (Burma),8/27/2009,12/22/2014,3,Asia,3,Intrastate ,2070.65,4765.38,17804.8,2009,8
+724,Myanmar (Burma),Government of Myanmar (Burma),8/27/2009,12/22/2014,3,Asia,3,Intrastate ,2070.65,4765.38,17804.8,2009,8
+725,Myanmar (Burma),Government of Myanmar (Burma),8/27/2009,3/6/2017,3,Asia,3,Intrastate ,2383.12,5870.75,21005.71,2009,8
