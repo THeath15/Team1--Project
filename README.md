@@ -28,7 +28,7 @@ b.	What was it during the conflict?
 
 c.	Did the size of the conflict have a proportional impact on the market price?
 
-d.	Was a certain sector impacted more than another?
+d.	Was a certain index (S&P, Nasdaq or Dow Jones) impacted more than another?
 
 e.	Which territory or location was greatly affected by and what was minimum,  maximum and average market value during the conflict?
 
