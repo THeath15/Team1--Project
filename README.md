@@ -44,7 +44,7 @@ Using Jupyter Notebooks the dataset were uploaded to Amazon Web Services. We use
 
 # Image Files and Dashboard : https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
 
-			    sample presentation link:https://github.com/THeath15/Team1--Project/blob/Theresa_Heath/Combined%20stocks.xlsx
+			    sample presentation linkk [https://github.com/THeath15/Team1--Project/blob/Theresa_Heath/Combined%20stocks.xlsx]
 
 # Technologies, languages, tools, and algorithms used throughout the project :
 	- Excel
