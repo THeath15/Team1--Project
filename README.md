@@ -80,7 +80,16 @@ Using Jupyter Notebooks the dataset were uploaded to Amazon Web Services. We use
 	Conflicts around the world don't arise too frequently as measured by the Uppsala Conflict Data Program (UCDP), as they are defined to occur with 25 or more battle-related deaths in a calendar year.
 	- The major benefits of this model include: being able to see the feature_importances after the training to see which of the features are most relevant in making stock predictions, being able to easily parallelize the training of the model as this is an ensemble method, and being able to easily explain/understand the model after the training.
 
+- Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables):
+	- No changes to the presently used ML model were made. 
+	- A cursory code was made for a deep neural network model for comparison's sake and the predicted values for the period of September 11th 2001 were nowhere close to the actual market behavior.
 
+- Description of how they have trained the model thus far, and any additional training that will take place:
+	- The model was trained for 100 extra random trees in parallel.
+	The "extra" in extra random trees comes from the fact that the cut points for the nodes are selected randomly, rather than optimally as would be done in a purely random forest regressor.
+- Description of current accuracy score:
+	- For this regression model the R<sup>2</sup> value is approximately equal to 0.9985 which indicates that much of the variation in the observed data can be attributed to the features used during the modelling process.
+	This value is suspiciously high, and may likely be an indication of overfitting.
 	## Outputs label(s) for input data
 	https://github.com/THeath15/Group1-Project---Sketch-it-out/blob/e2f1ec6065925112a6ae1c13e7a7f1781fbfcf7e/Images/ml_flowchart.png
 
