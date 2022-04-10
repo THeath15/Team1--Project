@@ -41,7 +41,8 @@ Data search  using Google and  Kaggle website (see above resources used for this
 
 Using Jupyter Notebooks the dataset were uploaded to Amazon Web Services. We use Python for cleaning up war dataset file was initiated and joining and cleaning up database for the 3 stock market file for Dowjones, Nasdaq and SP500. 
 
-# Image Files and Dashboard : https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
+# Image Files and Dashboard :
+https://public.tableau.com/app/profile/michele.sampson/viz/MarketTrendbyRegion/Dashboard1?publish=yes
 https://github.com/THeath15/Team1--Project/blob/main/Group1%20presentation%20revised%203.pptx
 			      
 
