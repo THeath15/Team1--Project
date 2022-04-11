@@ -1,0 +1,9 @@
+Name	Week 1 		Week 2		Week 3		Week 4
+
+TH	Square		Triangle	Circle		X
+
+MS	Circle		X		Square		Triangle
+
+SL	Triangle	Circle		X		Square
+
+JJ	X		Square		Triangle	Circle	
