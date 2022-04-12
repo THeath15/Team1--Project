@@ -1,0 +1,20 @@
+Speaker Notes:
+
+John -- Introduction
+
+International Conflicts and impacts on the stock markets
+
+We've seen international conflicts happen around the world.
+	
+	-	pirating cargo ships off the african coast, interupts shipping, increases shipping costs
+	-	syria - Cooking ingredients may be impacted (Aleppo pepper)
+	-	impacts resources available for manufacturing (Cobalt used for batteries) in Ukraine
+
+Personal investments can be impacted.  
+
+
+Theresa -- Data description
+
+	- 	Description of Armed Confict - discuss definition and the joint project of UDCP and ….Civil War etc
+	-	Describe Definition of Armed Conflict
+	-	Description of the data exploration phase of the project – which files did we look up first and which conflict datafile set was downloaded.
