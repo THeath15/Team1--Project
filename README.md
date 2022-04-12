@@ -22,15 +22,15 @@ With the current situation of Russia’s military invading Ukraine, our team has
 	
 # Questions we hope to answer with the data (reflecting on dataset)
 
-a.	What was the market behavior prior to the conflict? 
+a.	Does the number of the conflict have proportional impact?
 
-b.	What was it during the conflict?  
+b.	Does the geographical location matter to the number of conflict? 
 
-c.	Did the size of the conflict have a proportional impact on the market price?
+c.	Does the market bounce back after 90 days from the start of the conflict?
 
-d.	Was a certain sector impacted more than another?
+d.	Which territory / region or location was greatly affected by the conflicts?
 
-e.	Which territory or location was greatly affected by and what was minimum,  maximum and average market value during the conflict?
+e.	Describe the 9/11 market before, during and after the conflict?
 
 # Description of data exploration  and  analysis phase of the project
 Data search  using Google and  Kaggle website (see above resources used for this project). Dataset Stock Market Dataset and the datawar set from url above were downloaded and saved as:
