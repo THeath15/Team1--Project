@@ -56,7 +56,9 @@ https://github.com/THeath15/Team1--Project/blob/main/Group1%20presentation%20rev
 	- QuickDBD 
 	- AWS 
 	
-	![alt text](https://github.com/THeath15/Team1--Project/blob/8adc3fabdc14929a6bd3b56218bf5bedf785e964/Images/ERD%20Diagram.PNG?raw=true)
+
+
+![alt text](https://github.com/THeath15/Team1--Project/blob/8adc3fabdc14929a6bd3b56218bf5bedf785e964/Images/ERD%20Diagram.PNG?raw=true)
 
 # Machine Learning Model:
 
