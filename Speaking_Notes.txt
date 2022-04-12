@@ -1,20 +1,60 @@
 Speaker Notes:
 
-John -- Introduction
+John -- Introduction - Slides 1 and 2
 
 International Conflicts and impacts on the stock markets
 
 We've seen international conflicts happen around the world.
 	
 	-	pirating cargo ships off the african coast, interupts shipping, increases shipping costs
-	-	syria - Cooking ingredients may be impacted (Aleppo pepper)
-	-	impacts resources available for manufacturing (Cobalt used for batteries) in Ukraine
+	-	Syrian Civil War - Cooking ingredients may be impacted (Aleppo pepper, Olive oil, Barley)
+	-	Ukraine -  (Cobalt used for batteries) Iron
+	-	Russia - Major supplier of oil to eurpean nations
+
+	-	Does it matter about geography or which country has the most conflicts?
+
+	All of this can impact markets
 
 Personal investments can be impacted.  
 
+---------------------------------------------
 
-Theresa -- Data description
+Theresa -- Data description -  Slides 3, 4 and 5
 
 	- 	Description of Armed Confict - discuss definition and the joint project of UDCP and ….Civil War etc
 	-	Describe Definition of Armed Conflict
 	-	Description of the data exploration phase of the project – which files did we look up first and which conflict datafile set was downloaded.
+
+----------------------------------------------
+
+Stephen -- Slides 6, 7 and 8
+
+
+----------------------------------------------
+
+Michelle -- Slides 9, Dashboard 
+
+Variables used in the Armed Conflict Dataset – briefly review slide
+Market Trend by Region Dashboard
+First we have a location map by # of conflicts and as you put your cursor over each location you can see the location name, region name, type of conflict, and the number of conflicts. The dataset consists of data from 1977 through 2017.
+As you can see the country with the most conflict is India with 121 conflicts
+Briefly describe the 3 different types of conflict high level
+Type of Conflict by Region
+Describe the table based on the different regions & types of conflict each have had
+Yearly # of Conflicts by Region
+This table shows by year when each region had conflict
+If you notice that Africa has had the most conflicts from 1977 through 2017 but in the map above India which is part of Asia has had the most conflict that is because Africa is made up of a many different locations
+I would also like to point out that the largest dot for Americas was in 2001 which was from 9/11
+We found during our data analysis there does not seem to be a correlation between international conflict and Dow Jones, NASDAQ, & S&P 500 unless the conflict directly involves the USA.
+Actual 9/11/2001 Market Change (describe drop and increase)
+Machine Learning Predicted 9/11/2001 Market Change
+
+
+----------------------------------------------
+
+Closing slide with the questions asked
+
+
+----------------------------------------------
+
+Questions
