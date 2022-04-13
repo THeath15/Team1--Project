@@ -29,6 +29,22 @@ Theresa -- Data description -  Slides 3, 4 and 5
 
 Stephen -- Slides 6, 7 and 8
 
+	6:
+		- Excel = used for EDA, we had 28 field names, and not all of them were necessary
+		- Python = did the bulk of the computational work
+			- 2 data cleaning notebooks, 1 for conflicts, 1 for index funds, ETL
+		- AWS/Relational Database Service = primarily used for storage, definitely not a Big Data problem
+
+	7:
+		- Primary feature engineering was binning high cardinality categorical data, namely: governments, countries
+		- Facilitated by 2 user defined functions: find_nearest_date(), create_bins()
+		- After binning our input data had 116 features, not very conducive to interactivity
+
+	8:
+		- feature_importances_ indicated that "year" accounted for 97.56% of significance
+		- Next highest were territory_name_Islamic_State, month, and side_b_IS all at 0.01%
+		- Coefficient of determination, R^2, was equal to 0.9985
+
 
 ----------------------------------------------
 
